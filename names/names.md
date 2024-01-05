@@ -1,15 +1,14 @@
 ## Names
-| Female Names | Male Names  |
-| ------------ | ----------- |
-| Adel         | Adel        |
-| Angel        | Angel       |
-| Axel         | Axel        |
-| Charlie      | Charlie     |
-| Jane         | John        |
-| Jules        | Jules       |
-| Morgan       | Morgan      |
-| Paris        | Paris       |
-| Robin        | Robin       |
-| Simone       | Simone      |
+| Names | 
+| ------------ | 
+| Adel         | 
+| Angel        | 
+| Axel         | 
+| Charlie      | 
+| Jane         | 
+| Jules        | 
+| Morgan       | 
+| Paris        | 
+| Robin        | 
+| Simone       | 
 
-**Note:** Gender-neutral names were ambigously chosen on purpose.
