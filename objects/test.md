@@ -1,7 +1,7 @@
-# Class drinks
+# Class drinks (drink)
 
 | Objectname               |  Image                   |
-:-------------------------:|:-------------------------:
+|:-------------------------:|:-------------------------:|
 | orange_juice  |  ![](known_objects/drinks/orange_juice.jpg) |
 | red_wine  |  ![](known_objects/drinks/red_wine.jpg) |
 | milk  |  ![](known_objects/drinks/milk.jpg) |
@@ -11,7 +11,7 @@
 | juice_pack  |  ![](known_objects/drinks/juice_pack.jpg) |
 
 
-# Class fruits
+# Class fruits (fruit)
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
@@ -25,7 +25,7 @@
 | plum  |  ![](known_objects/fruits/plum.png) |
 
 
-# Class snacks
+# Class snacks (snack)
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
@@ -34,7 +34,7 @@
 | pringles  |  ![](known_objects/snacks/pringles.png) |
 
 
-# Class food
+# Class foods (food) 
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
@@ -48,7 +48,7 @@
 | coffee_grounds  |  ![](known_objects/food/coffee_grounds.png) |
 
 
-# Class dishes
+# Class dishes (dish)
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
@@ -60,7 +60,7 @@
 | bowl  |  ![](known_objects/dishes/bowl.png) |
 
 
-# Class toys
+# Class toys (toy)
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
@@ -71,7 +71,7 @@
 | baseball  |  ![](known_objects/toys/baseball.png) |
 
 
-# Class cleaning_supplies
+# Class cleaning_supplies (cleaning_supply)
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
